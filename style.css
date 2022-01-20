@@ -92,6 +92,9 @@ body{
     text-decoration: none;
     font-weight: bold;
 }
+#change{
+    color: #382ae1;
+}
 /*footer*/
 .attribution{
     position: fixed;
